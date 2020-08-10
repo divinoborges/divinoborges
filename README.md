@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi there! I'm Divino Borges <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"/></h3>
+<p align="center">
+  <a href="https://linktr.ee/divinofilho">Portfolio</a> •
+  <a href="https://twitter.com/divinobfilho">Twitter</a><br>
+  
+</p>
 
-<!--
-**divinofilho/divinofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30" /> About me 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+export const divinoborges = {
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
+  frameworks: ['Angular', 'Flutter'],
+  runtime: 'Node',
+  databases: ['MySQL', 'Oracle'],
+  misc: ['Firebase', 'Google Cloud', 'UI/UX']
+}
+```
