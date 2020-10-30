@@ -10,7 +10,7 @@
 
 ```javascript
 export const divinoborges = {
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
+  code: ['Python','Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
   frameworks: ['Angular', 'Flutter'],
   runtime: 'Node',
   databases: ['MySQL', 'Oracle'],
