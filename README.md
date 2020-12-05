@@ -11,8 +11,9 @@
 ```javascript
 export const divinoborges = {
   code: ['Python','Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
-  frameworks: ['Angular', 'Flutter'],
-  runtime: 'Node',
+  frameworks: ['Angular'],
+  libs: ['React'],
+  runtime: ['Node.js'],
   databases: ['MySQL', 'Oracle'],
   misc: ['Firebase', 'Google Cloud', 'UI/UX']
 }
