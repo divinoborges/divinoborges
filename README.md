@@ -9,12 +9,14 @@
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30" /> About me 
 
 ```javascript
-export const divinoborges = {
+const divinoborges = {
   code: ['Python','Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
   frameworks: ['Angular'],
   libs: ['React'],
   runtime: ['Node.js'],
   databases: ['MySQL', 'Oracle'],
   misc: ['Firebase', 'Google Cloud', 'UI/UX']
-}
+};
+
+export default divinoborges;
 ```
