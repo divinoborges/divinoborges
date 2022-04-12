@@ -10,12 +10,9 @@
 
 ```javascript
 const divinoborges = {
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'SQL'],
-  frameworks: ['Angular'],
-  libs: ['React'],
-  runtime: ['Node.js'],
-  databases: ['MySQL', 'Oracle'],
-  misc: ['Firebase', 'Google Cloud', 'AWS', 'UI/UX']
+  code: ['Kotlin', 'Dart'],
+  frameworks: ['Flutter'],
+  devops: ['AWS', 'Google Cloud']
 };
 
 export default divinoborges;
