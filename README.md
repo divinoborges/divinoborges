@@ -8,12 +8,35 @@
 
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30" /> About me 
 
-```javascript
-const divinoborges = {
-  code: ['Kotlin', 'Dart'],
-  frameworks: ['Flutter'],
-  devops: ['AWS', 'Google Cloud']
-};
+## Flutter
+### State management
+- mobx
+- getx
 
-export default divinoborges;
-```
+### Unit and UI Tests
+- flutter_test
+- mockito
+- faker
+
+### Internacionalization
+- intl
+- flutter_localizations
+
+### HttpClient
+- dio
+
+### Service Locator (Singleton)
+- get_it
+
+### Architecture and Code Quality
+- Clean Architecture
+- Design Patterns
+- SOLID
+- Modularization with packages
+
+### Others 
+- google_fonts
+- shimmer
+- lottie
+- shared_preferences
+- local_auth
