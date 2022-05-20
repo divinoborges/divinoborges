@@ -10,12 +10,13 @@
 
 ## Flutter
 ### State management
+- bloc
 - mobx
-- getx
 
 ### Unit and UI Tests
 - flutter_test
 - mockito
+- mocktail
 - faker
 
 ### Internacionalization
@@ -27,6 +28,7 @@
 
 ### Service Locator (Singleton)
 - get_it
+- modular
 
 ### Architecture and Code Quality
 - Clean Architecture
