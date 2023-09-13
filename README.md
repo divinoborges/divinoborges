@@ -3,7 +3,7 @@
 
 # Hello! 👋
 
-I'm a mobile developer specializing in Android, iOS, and Flutter. I also have experience in XR (Extended Reality).
+Mobile development specialist with a passion for creating innovative and user-friendly applications. Proficient in Android (Kotlin), iOS (SwiftUI, ViewCode), and Flutter for delivering top-notch mobile experiences. Skilled in implementing clean architecture and Design Systems to ensure scalable and maintainable solutions. Continuously seeking opportunities to explore emerging mobile technologies and stay ahead of industry trends. A collaborative team player with a successful track record of leading and managing mobile projects to successful deployment. Committed to creating mobile solutions that make a positive impact on users' lives.
 
 ## My Skills
 
@@ -11,7 +11,7 @@ I'm a mobile developer specializing in Android, iOS, and Flutter. I also have ex
 - Native iOS development (SwiftUI)
 - Cross-platform development with Flutter
 - XR development with Web AR
-
+- Azure and GCP
 
 ## Contact Me
 
