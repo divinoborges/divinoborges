@@ -12,8 +12,3 @@ Mobile development specialist with a passion for creating innovative and user-fr
 - Cross-platform development with Flutter
 - XR development with Web AR
 - Azure and GCP
-
-## Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/divinoborges)
-
